@@ -7,6 +7,7 @@ def subtract(x,y):
     return x-y            #on master
 # multiply implementation1
 def multiply(x,y):
+    x=1
     return x*y          #on bug456
 # divide implementation1
 def divide(x,y):
