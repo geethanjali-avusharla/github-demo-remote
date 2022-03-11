@@ -4,6 +4,7 @@ def add(x,y):
     return x+y;
 # Subtract implementation1
 def subtract(x,y):
+    x=2                   #on bug456
     return x-y            #on master
 # multiply implementation1
 def multiply(x,y):
